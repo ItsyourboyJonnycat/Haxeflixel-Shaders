@@ -1,2 +1,2 @@
 # Haxeflixel-Shaders
-Shaders if you want to you 
+Shaders if you want to use
